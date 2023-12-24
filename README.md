@@ -1,2 +1,5 @@
 # portfolio
 IAP portfolio assignment
+HANS MATERE WALUBENGO
+SCT 211-0080/2022
+B.Sc COMPUTER SCIENCE
